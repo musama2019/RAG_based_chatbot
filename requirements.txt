@@ -1,0 +1,9 @@
+langchain[all]
+faiss-cpu
+openai
+huggingface_hub
+transformers
+gradio
+unstructured
+InstructorEmbedding
+pypdf
