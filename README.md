@@ -1,6 +1,6 @@
-# RAG_based_chatbot
+# RegulAI Assistant
 
-The RAG-based Chatbot project offers a Jupyter notebook containing a step-by-step guide to creating a chatbot using the Retrieval-Augmented Generation (RAG) framework. Additionally, it includes an app.py file and a requirements.txt file for running the chatbot using Python scripts.
+Imagine having a virtual assistant at your fingertips, ready to help with any question about your organization's rules and regulations. That's exactly what we created – a smart chatbot named "RegulaBot" – to make life easier for everyone in an organization. Using the latest technology called Retrieval-Augmented Generation (RAG), RegulaBot can understand your questions and give you the right answers in no time. Whether it's about company policies, compliance requirements, or specific regulations, RegulaBot has got you covered. It's like having a knowledgeable colleague available 24/7 to guide you through the ins and outs of  organization. And the best part? It's all done seamlessly through simple conversation, making it easy for everyone to stay informed and make better decisions.
 
 **Key Components:**
 
